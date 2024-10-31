@@ -1,5 +1,6 @@
 # Incentive
-# Spotify Top Tracks 2023 - Exploratory Data Analysis (EDA)
+# Spotify Top Tracks 2023 - Exploratory Data Analysis (EDA) ![alt text](https://storage.googleapis.com/kaggle-datasets-images/3668746/6367938/69737d0e8c9c933e73410d4c9df5e550/dataset-cover.jpg?t=2023-08-26-11-11-25)
+
 ### This project explores a dataset of Spotify's most-streamed songs in 2023, analyzing trends, patterns, and correlations to better understand the factors that contribute to a track's popularity.
 
 ## Project Overview
