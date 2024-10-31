@@ -6,4 +6,7 @@
 ### This project uses exploratory data analysis (EDA) to examine Spotify's top tracks of 2023, sourced from Kaggle. By visualizing and analyzing key metrics, we uncover insights into trends in music, artist popularity, and track characteristics that may influence streaming success.
 
 ## Technologies Used
-### Python: Data analysis and visualization\n Jupyter Notebook: For running EDA interactively\n Pandas: Data manipulation\n Matplotlib/Seaborn: Data visualization
+### Python: Data analysis and visualization
+### Jupyter Notebook: For running EDA interactively
+### Pandas: Data manipulation
+### Matplotlib/Seaborn: Data visualization
