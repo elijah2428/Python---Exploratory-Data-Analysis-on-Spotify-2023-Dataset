@@ -1,4 +1,4 @@
-# Incentive
+
 # 🎧Spotify Top Tracks 2023 - Exploratory Data Analysis (EDA) 
 
 ### This project explores a dataset of Spotify's most-streamed songs in 2023, analyzing trends, patterns, and correlations to better understand the factors that contribute to a track's popularity.
