@@ -35,6 +35,11 @@
 #### • Identify patterns based on tracks with similar keys or modes (Major vs. Minor).
 #### • Determine if any genres or artists appear more frequently in playlists or charts.
 
+## 💡 Recommendations
+### For Artists 
+#### •  They can focus on creating high-energy musics to improve their appeal to listeners as this factors correlate with higher streams based on the graphs.
+### For Tracks
+#### • Tracks with high danceability and energy tend to perform well, which reflects the broader trend toward upbeat music in popular playlists. This could be because such tracks resonate with listeners in social and active environments, like parties, workouts, and commutes.
 ## 🔧Technologies Used
 ### • Python: Data analysis and visualization
 ### • Jupyter Notebook: For running EDA interactively
